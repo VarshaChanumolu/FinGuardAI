@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+faiss-cpu
+sentence-transformers
+pypdf
+huggingface-hub
+groq
+python-dotenv
+httpx

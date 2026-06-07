@@ -1,0 +1,830 @@
+{
+    "ab_test_detection": {
+        "successes": {
+            "A": 1,
+            "B": 157
+        },
+        "failures": {
+            "A": 3,
+            "B": 5
+        }
+    },
+    "ab_test_explanation": {
+        "successes": {
+            "C": 2,
+            "D": 158
+        },
+        "failures": {
+            "C": 2,
+            "D": 4
+        }
+    },
+    "selected_dataset": "creditcard",
+    "metrics_history": [
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        },
+        {
+            "accuracy": 0,
+            "false_positives": 0,
+            "trust_metric": 0,
+            "total_transactions": 0,
+            "precision": 0,
+            "recall": 0,
+            "f1_score": 0
+        }
+    ],
+    "transaction_history": [
+        {
+            "transaction_index": 0,
+            "detection_variant": "A",
+            "explanation_variant": "D",
+            "explanation": "\"Transaction flagged as fraudulent (Confidence: 0.90) due to LLM prediction, indicating possible Money Laundering/Countering the Financing of Terrorism activity.\"",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 2,
+            "detection_variant": "A",
+            "explanation_variant": "C",
+            "explanation": "Risk Factor Breakdown:\n- Detection Reason: LLM prediction\nOverall Confidence: 0.90",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 3,
+            "detection_variant": "A",
+            "explanation_variant": "C",
+            "explanation": "Risk Factor Breakdown:\n- Detection Reason: LLM prediction\nOverall Confidence: 0.90",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 82,
+            "detection_variant": "B",
+            "explanation_variant": "D",
+            "explanation": "\"Transaction flagged as fraudulent with 85% confidence due to suspicious V14 value (-2.8371359983) and LLM prediction, potentially indicating money laundering/terrorist financing activity.\"",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 89,
+            "detection_variant": "B",
+            "explanation_variant": "D",
+            "explanation": "\"Transaction flagged as fraudulent due to high amount (4.21) and machine learning model prediction (Confidence: 0.80), exceeding anti-money laundering thresholds for registered investment advisers.\"",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 104,
+            "detection_variant": "B",
+            "explanation_variant": "D",
+            "explanation": "**Fraud Detection Result Explanation**\n\nThe transaction has been flagged as fraudulent with 85% confidence. The reason is a combination of rule-based detection (suspicious V14 value) and a machine learning model prediction.",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 140,
+            "detection_variant": "B",
+            "explanation_variant": "D",
+            "explanation": "**Fraud Detection Result:**\n\nTransaction flagged as fraudulent with 80% confidence due to high transaction amount (Rule-based) and LLM prediction, exceeding suspicious activity report filing requirements for registered investment advisers.",
+            "ground_truth": "Not Fraud"
+        },
+        {
+            "transaction_index": 164,
+            "detection_variant": "B",
+            "explanation_variant": "D",
+            "explanation": "This transaction has been flagged as potentially fraudulent with a confidence of 0.80. (LLM failed to generate narrative)",
+            "ground_truth": "Not Fraud"
+        }
+    ]
+}
